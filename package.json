@@ -1,0 +1,14 @@
+{
+  "name": "daozhu-kart",
+  "version": "1.0.0",
+  "description": "蘑菇卡丁车 · 岛主出品 (Plan B 多人联网对战版)",
+  "type": "module",
+  "main": "server/multiplayer-server.js",
+  "scripts": {
+    "start": "node server/multiplayer-server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": ["game", "kart", "threejs", "multiplayer", "mario"]
+}
